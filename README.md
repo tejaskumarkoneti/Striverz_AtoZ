@@ -1,2 +1,1 @@
-# Striverz_AtoZ
-
+DSA in Python
